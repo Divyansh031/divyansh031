@@ -106,7 +106,6 @@ Guru Nanak Dev University, Amritsar, Punjab
 # 📫 Connect With Me
 
 - 🌍 **Website:** [divyansh.fyi](https://divyansh.fyi/)
-- 💻 **GitHub:** [divyansh031](https://github.com/divyansh031)
 - 💼 **LinkedIn:** [Divyansh Sharma](https://www.linkedin.com/in/divyansh-sharma31/)
 
 ---
